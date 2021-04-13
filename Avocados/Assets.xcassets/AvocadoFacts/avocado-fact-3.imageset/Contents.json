@@ -1,0 +1,26 @@
+{
+  "images" : [
+    {
+      "filename" : "avocado-fact-3.jpg",
+      "idiom" : "universal",
+      "locale" : "En",
+      "scale" : "1x"
+    },
+    {
+      "filename" : "avocado-fact-3@2x.jpg",
+      "idiom" : "universal",
+      "locale" : "En",
+      "scale" : "2x"
+    },
+    {
+      "filename" : "avocado-fact-3@3x.jpg",
+      "idiom" : "universal",
+      "locale" : "En",
+      "scale" : "3x"
+    }
+  ],
+  "info" : {
+    "author" : "xcode",
+    "version" : 1
+  }
+}

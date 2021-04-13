@@ -1,0 +1,26 @@
+{
+  "images" : [
+    {
+      "filename" : "avocado-crunchy-celery-salsa.jpg",
+      "idiom" : "universal",
+      "locale" : "En",
+      "scale" : "1x"
+    },
+    {
+      "filename" : "avocado-crunchy-celery-salsa@2x.jpg",
+      "idiom" : "universal",
+      "locale" : "En",
+      "scale" : "2x"
+    },
+    {
+      "filename" : "avocado-crunchy-celery-salsa@3x.jpg",
+      "idiom" : "universal",
+      "locale" : "En",
+      "scale" : "3x"
+    }
+  ],
+  "info" : {
+    "author" : "xcode",
+    "version" : 1
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "images" : [
+    {
+      "filename" : "avocado-smoothie-bowl.jpg",
+      "idiom" : "universal",
+      "locale" : "En",
+      "scale" : "1x"
+    },
+    {
+      "filename" : "avocado-smoothie-bowl@2x.jpg",
+      "idiom" : "universal",
+      "locale" : "En",
+      "scale" : "2x"
+    },
+    {
+      "filename" : "avocado-smoothie-bowl@3x.jpg",
+      "idiom" : "universal",
+      "locale" : "En",
+      "scale" : "3x"
+    }
+  ],
+  "info" : {
+    "author" : "xcode",
+    "version" : 1
+  }
+}
